@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9ac07e3a93c9ebc4d9b39cffd453b8d4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - inicioVista: {instanceID: 0}
+  - finVista: {instanceID: 0}
+  - exclamacion: {fileID: 100000, guid: 2f68353431a8f0342a5addb05e51d56b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

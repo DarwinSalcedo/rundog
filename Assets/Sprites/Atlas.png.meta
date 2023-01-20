@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 31d6db4117e027d4090e6c8b7aa6d905
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cuerpo
+    21300002: Item
+    21300004: ColaB
+    21300006: BloqueMediano
+    21300008: ColaA
+    21300010: PataInferiorB
+    21300012: PataSuperiorB
+    21300014: OrejaIzquierda
+    21300016: Cabeza
+    21300018: BloqueCorto
+    21300020: OrejaDerecha
+    21300022: PataSuperiorA
+    21300024: PataInferiorA
+    21300026: BloqueLargo
+    21300028: parte
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 110
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 451
+        width: 236
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Item
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 582
+        width: 173
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColaB
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 459
+        width: 101
+        height: 80
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BloqueMediano
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 47
+        width: 696
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColaA
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 612
+        width: 60
+        height: 31
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PataInferiorB
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 172
+        width: 32
+        height: 46
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PataSuperiorB
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 172
+        width: 32
+        height: 47
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrejaIzquierda
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 245
+        width: 79
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 459
+        width: 277
+        height: 208
+      alignment: 9
+      pivot: {x: .201288223, y: .209613949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BloqueCorto
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 321
+        width: 518
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrejaDerecha
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 248
+        width: 80
+        height: 123
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PataSuperiorA
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 218
+        width: 54
+        height: 92
+      alignment: 9
+      pivot: {x: .518352509, y: .849954009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PataInferiorA
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 241
+        width: 90
+        height: 123
+      alignment: 9
+      pivot: {x: .500000179, y: .774958253}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BloqueLargo
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 748
+        height: 679
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: parte
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 76
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

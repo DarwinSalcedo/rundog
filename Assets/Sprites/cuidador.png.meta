@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 3a77ecd057488f1429b0777773ffccdc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cuidador
+    21300002: cuidador_0
+    21300004: cuidador_1
+    21300006: cuidador_2
+    21300008: cuidador_3
+    21300010: cuidador_4
+    21300012: cuidador_5
+    21300014: cuidador_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 90
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cuidador_0
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 905
+        width: 408
+        height: 402
+      alignment: 9
+      pivot: {x: .506495297, y: .157208651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuidador_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 549
+        width: 257
+        height: 93
+      alignment: 9
+      pivot: {x: .809343159, y: .414514035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuidador_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 553
+        width: 281
+        height: 99
+      alignment: 9
+      pivot: {x: .754630446, y: .446463525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuidador_3
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 0
+        width: 438
+        height: 833
+      alignment: 9
+      pivot: {x: .542352259, y: .671791315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuidador_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 255
+        height: 94
+      alignment: 9
+      pivot: {x: .811769307, y: .471807122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuidador_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 177
+        width: 281
+        height: 99
+      alignment: 9
+      pivot: {x: .726338148, y: .473231614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuidador_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 202
+        width: 230
+        height: 167
+      alignment: 9
+      pivot: {x: .661306918, y: .674553037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
